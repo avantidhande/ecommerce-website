@@ -1,0 +1,89 @@
+{
+  "men": [
+    {
+      "id": 1,
+      "title": "Denim Jacket",
+      "price": 1999,
+      "image": "https://images.unsplash.com/photo-1537465978529-d23b17165b3b?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTJ8fGRlbmltJTIwamFja2V0fGVufDB8fDB8fHww",
+      "description": "A rugged denim jacket perfect for layering in cooler weather.",
+      "category": "Clothing",
+      "rating": 4.5
+    },
+    {
+      "id": 2,
+      "title": "Formal White Shirt",
+      "price": 1299,
+      "image": "https://images.unsplash.com/photo-1612541122840-bf7071c968a2?q=80&w=1996&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "description": "A crisp white shirt ideal for formal or office wear.",
+      "category": "Clothing",
+      "rating": 4.0
+    },
+    {
+      "id": 7,
+      "title": "Men's Sneakers",
+      "price": 2499,
+      "image": "https://images.unsplash.com/photo-1715693754047-4c0b56576495?q=80&w=2076&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "description": "Modern and stylish sneakers built for everyday comfort.",
+      "category": "Footwear",
+      "rating": 4.6
+    }
+  ],
+  "women": [
+    {
+      "id": 3,
+      "title": "Floral Summer Dress",
+      "price": 1499,
+      "image": "https://images.unsplash.com/photo-1658955924468-a4ee5fa6aeb6?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTJ8fEZsb3JhbCUyMFN1bW1lciUyMERyZXNzfGVufDB8fDB8fHww",
+      "description": "A floral print summer dress perfect for warm days.",
+      "category": "Clothing",
+      "rating": 4.8
+    },
+    {
+      "id": 4,
+      "title": "Leather Handbag",
+      "price": 999,
+      "image": "https://images.unsplash.com/photo-1596552639068-99bd471b579c?q=80&w=1935&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "description": "A premium leather handbag that adds elegance to any outfit.",
+      "category": "Accessories",
+      "rating": 4.3
+    },
+    {
+      "id": 8,
+      "title": "Cat Eye Sunglasses",
+      "price": 799,
+      "image": "https://images.unsplash.com/photo-1586950741480-13caae293cd8?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OHx8ZXllJTIwc3VuZ2xhc3Nlc3xlbnwwfHwwfHx8MA%3D%3D",
+      "description": "Trendy cat eye sunglasses that offer full UV protection.",
+      "category": "Accessories",
+      "rating": 4.4
+    }
+  ],
+  "kids": [
+    {
+      "id": 5,
+      "title": "Kids 3 T-shirts Combo",
+      "price": 499,
+      "image": "https://images.unsplash.com/photo-1597524181043-5df2539fabf8?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "description": "Breathable and soft cotton 3 t-shirts designed for active kids.",
+      "category": "Clothing",
+      "rating": 4.2
+    },
+    {
+      "id": 6,
+      "title": "Building Blocks Toy Set",
+      "price": 799,
+      "image": "https://images.unsplash.com/photo-1575364289437-fb1479d52732?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "description": "Colorful and educational toy set for creative play.",
+      "category": "Toys",
+      "rating": 4.7
+    },
+    {
+      "id": 9,
+      "title": "Super Mario Toy",
+      "price": 699,
+      "image": "https://images.unsplash.com/photo-1574387324389-2366ec67539c?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "description": "bright and cheerful and instantly recognizable with his blue overalls, red cap, and trademark moustache",
+      "category": "Accessories",
+      "rating": 4.5
+    }
+  ]
+}
