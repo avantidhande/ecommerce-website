@@ -7,8 +7,9 @@ export default function OrderPlaced() {
   const { clearCart } = useContext(CartContext);
 
   useEffect(() => {
-    clearCart(); // run only once on mount
-  }, []); // No dependencies that change
+    clearCart();
+  }, [clearCart]);
+  
 
   return (
     <main className="min-h-screen flex items-center justify-center bg-white p-8">
