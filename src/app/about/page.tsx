@@ -18,7 +18,7 @@ export default function About() {
           <li>Quality: We strive to offer top-notch products.</li>
           <li>Style: We keep up with the latest trends to provide fashionable choices.</li>
           <li>Customer Satisfaction: Our customers are our top priority.</li>
-          <li>Affordability: We believe great fashion shouldn&apos;t break the bank.</li>
+          <li>Affordability: We believe great fashion shouldn&#39;t break the bank.</li>
         </ul>
 
         <div className="mt-8 text-center">
