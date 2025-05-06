@@ -8,7 +8,7 @@ export default function Footer() {
       <div className="grid grid-cols-1 md:grid-cols-4 gap-8">
         {/* Brand Info */}
         <div>
-          <h3 className="text-xl font-bold mb-2">FashionHub</h3>
+          <h3 className="text-xl font-bold mb-2">ShopVerse</h3>
           <p className="text-sm text-gray-400">
             Your one-stop destination for modern, stylish, and comfortable fashion for Men, Women & Kids.
           </p>
@@ -21,7 +21,7 @@ export default function Footer() {
             <li><Link href="/" className="hover:underline">Home</Link></li>
             <li><Link href="/about" className="hover:underline">About Us</Link></li>
             <li><Link href="/contact" className="hover:underline">Contact</Link></li>
-            <li><Link href="/faq" className="hover:underline">FAQs</Link></li>
+            <li><Link href="/privacy-policy" className="hover:underline">Privacy Policy</Link></li>
           </ul>
         </div>
 
@@ -58,7 +58,7 @@ export default function Footer() {
 
       {/* Footer Bottom */}
       <div className="mt-10 text-center text-sm text-gray-500">
-        © {new Date().getFullYear()} FashionHub. All rights reserved.
+        © {new Date().getFullYear()} ShopVerse. All rights reserved.
       </div>
     </footer>
   );
